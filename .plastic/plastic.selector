@@ -1,0 +1,4 @@
+repository "horror-project@hman287@cloud"
+  path "/"
+    br "/main"
+    co "/main"

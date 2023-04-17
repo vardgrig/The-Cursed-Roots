@@ -20,7 +20,9 @@ The game can be played using a keyboard and mouse or a gamepad. The controls are
 * ***Look***: Mouse / Right Analog
 * ***Interact***: E / South Button
 
+## Demo Video
 
+[![Demo Video](https://img.youtube.com/vi/_qjetPruwiU/0.jpg)](https://www.youtube.com/watch?v=_qjetPruwiU)
 
 # Credits
 
